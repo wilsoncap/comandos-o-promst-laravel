@@ -11,6 +11,7 @@ Dentro de esta carpeta, organizamos las funcionalidades en subcarpetas por módu
 El uso del comando es muy sencillo. Solo debes escribir el nombre del comando junto con el nombre del módulo que desees crear, ¡y listo!
 
 ``php artisan make:module Vehicle``
+![Screenshot 2025-06-23 233335](https://github.com/user-attachments/assets/491ce47f-a458-46be-889e-9b2217d5a9f4)
 
 **Nota:**  Para conservar la convención de Laravel, el módulo se crea en singular, ya que también se genera un modelo, el cual por convención debe estar en singular.
 
